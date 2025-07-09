@@ -10,4 +10,4 @@ Task_2
 
 1)prompts the  user to enter a number
 
-2) prints the results by using module
+2)prints the results by using module
